@@ -19,7 +19,7 @@ The objective of this project is to:
 
 ```
 .
-├── MDS202530_Assignment.py   # Main Python script
+├── MDS202506_Assignment.py   # Main Python script
 ├── requirements.txt          # Python dependencies
 ├── Dockerfile                # Docker configuration
 ├── output.png                # Screenshot of output
@@ -121,7 +121,7 @@ python MDS202530_Assignment.py
 
 ## 👨‍💻 Author
 
-**Sambit Ranjan Rout**
+**AMAN RAY**
 MSc Data Science
 Chennai Mathematical Institute
 
