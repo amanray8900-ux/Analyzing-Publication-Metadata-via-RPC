@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ### 3. Run the Python script
 
 ```bash
-python MDS202530_Assignment.py
+python MDS202506_Assignment.py
 ```
 
 ---
@@ -114,7 +114,7 @@ publication-app.tar
 * Dockerfile runs:
 
 ```bash
-python MDS202530_Assignment.py
+python MDS202506_Assignment.py
 ```
 
 ---
